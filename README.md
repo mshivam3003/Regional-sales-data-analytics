@@ -12,10 +12,11 @@ This project analyzes **XYZ Company's regional sales data (2014-2018)** to ident
 - `Regional_Sales_Analysis.ipynb` - data cleaning, feature engineering, and EDA
 - `Regional Sales Dataset.xlsx` - source dataset (Excel)
 - `requirements.txt` - Python dependencies for running the notebook
-- `Screenshot 2026-04-24 154923.png` - Power BI dashboard image
-- `Screenshot 2026-04-24 154933.png` - Power BI dashboard image
-- `Screenshot 2026-04-24 154944.png` - Power BI dashboard image
-- `Screenshot 2026-04-24 155001.png` - Power BI dashboard image
+- Power BI dashboard image
+- <img width="1609" height="838" alt="Screenshot 2026-04-24 154923" src="https://github.com/user-attachments/assets/9155050e-e7fb-4077-af36-a015bc8b7123" />
+- <img width="1596" height="855" alt="Screenshot 2026-04-24 154933" src="https://github.com/user-attachments/assets/09149354-afe5-41dc-a66f-1ddbd1b8df23" />
+- <img width="1602" height="832" alt="Screenshot 2026-04-24 154944" src="https://github.com/user-attachments/assets/9f083160-91c5-44ff-947b-d9e0b23d973e" />
+- <img width="1604" height="828" alt="Screenshot 2026-04-24 155001" src="https://github.com/user-attachments/assets/0e14d091-06a3-445f-bbec-643ae5036b7b" />
 
 ## Tech stack
 
@@ -43,10 +44,10 @@ The notebook covers:
 
 Below are the Power BI dashboard screenshots included in this repo:
 
-![Power BI Dashboard 1](<Screenshot 2026-04-24 154923.png>)
-![Power BI Dashboard 2](<Screenshot 2026-04-24 154933.png>)
-![Power BI Dashboard 3](<Screenshot 2026-04-24 154944.png>)
-![Power BI Dashboard 4](<Screenshot 2026-04-24 155001.png>)
+![Power BI Dashboard 1](https://github.com/user-attachments/assets/9155050e-e7fb-4077-af36-a015bc8b7123)
+![Power BI Dashboard 2](https://github.com/user-attachments/assets/09149354-afe5-41dc-a66f-1ddbd1b8df23)
+![Power BI Dashboard 3](https://github.com/user-attachments/assets/9f083160-91c5-44ff-947b-d9e0b23d973e)
+![Power BI Dashboard 4](https://github.com/user-attachments/assets/0e14d091-06a3-445f-bbec-643ae5036b7b)
 
 ## Key insights (from the EDA)
 
